@@ -1,6 +1,6 @@
 # Kebijakan Privasi - Sahabat Muslim
 
-**Terakhir diperbarui: 15 April 2025**
+**Terakhir diperbarui: 13 April 2025**
 
 ## 1. Informasi yang Kami Kumpulkan
 Aplikasi Sahabat Muslim mengumpulkan informasi berikut untuk meningkatkan pengalaman pengguna:
